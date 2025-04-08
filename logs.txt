@@ -1,0 +1,15 @@
+*   a7b2d88 Merge branch '8-mark-a-task-as-completed-by-name'
+|\  
+| * f450297 Marked tasks completed by name
+* |   6f90551 Merge pull request #11 from klhtv/2-list-tasks-sorted-by-name
+|\ \  
+| * | a8dd426 Sorted tasks by name
+| |/  
+* |   4054e46 Merge pull request #10 from klhtv/1-remove-a-task-by-name
+|\ \  
+| |/  
+|/|   
+| * ee95d11 Removed tasks by name
+|/  
+* 0387e4f Add starter code
+* 912a493 Initial commit
