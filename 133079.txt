@@ -1,0 +1,20 @@
+13. git fetch origin - kreiranje na 3 tracker granki
+14. git checkout 1-remove-a-task-by-name
+15. code change in java file + git add
+16. git commit -m "Removed tasks by name"
+17. Kreiran e pull request na github
+18. code change in java file + git add + git commit
+19. git commit - m "Sorted tasks by name"
+20. Kreiran e pull request na github
+21. code change in java file + git add + git commit so fix
+22. Kreiran e pull request na github
+23. merge-nati se dvete granki "Sorted tasks by name" i "Removed tasks by name" poeedinechno
+24. napraven e git pull
+25. git merge 8-mark-a-task-as-completed-by-name
+26. git push -u origin master
+27. sozdavanje na git log --oneline --graph --all
+28. sinhroniziranje so remote repo
+29. fork na repo
+30. git clone za lokalno da se prevzeme
+31. kreiranje na 133079.txt
+32. git add + commit + push 
